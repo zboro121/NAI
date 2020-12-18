@@ -1,4 +1,4 @@
-## Exercise 3 - Hotel rating - fuzzy logic
+## Exercise 4 
 * [Code](https://github.com/zboro121/NAI/LAB4/main.py)
 * [Screens from the game](https://github.com/zboro121/NAI/LAB4/screens)
 * Preparation Instruction without requirements.txt:
