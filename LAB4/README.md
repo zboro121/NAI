@@ -1,6 +1,6 @@
 ## Exercise 4 - Movies
-* [Code](https://github.com/zboro121/blob/master/NAI/LAB4/main.py)
-* [Screens from the game](https://github.com/zboro121/blob/master/NAI/LAB4/screens)
+* [Code](https://github.com/zboro121/NAI/LAB4/main.py)
+* [Screens from the game](https://github.com/zboro121/NAI/LAB4/screens)
 * Preparation Instruction without requirements.txt:
     * Install pip:
     ```
