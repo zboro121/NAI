@@ -135,3 +135,11 @@ class MovieRecommender:
         """
         self.__recommend_movies(username)
         return self.take(6, dict(sorted(self.predictions.items(), key=lambda item: item[1], reverse=True)))
+    def get_6_not_recommended_movies(self, username):
+        """
+        Configures input values.
+        :param username: Name and surname of user - Case sensitive
+        :returns: list of 6 not recommended movies
+        """
+        self.__recommend_movies(username)
+        return self.take(6, dict(sorted(self.predictions.items(), key=lambda item: item[1])))
