@@ -1,6 +1,6 @@
-## Exercise 3 - Hotel rating - fuzzy logic
-* [Code](https://github.com/kwkna/NAI_codingames/blob/master/LAB4/main.py)
-* [Screens from the game](https://github.com/kwkna/NAI_codingames/blob/master/LAB4/screens)
+## Exercise 4 - Movies
+* [Code](https://github.com/zboro121/NAI/blob/LAB4/LAB4/main.py)
+* [Screens from the game](https://github.com/zboro121/NAI/blob/LAB4/LAB4/screens/screen1.png)
 * Preparation Instruction without requirements.txt:
     * Install pip:
     ```
