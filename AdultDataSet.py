@@ -1,3 +1,7 @@
+# Authors: Jakub Wirkus, Paweł Zborowski
+# Description: Prediction task is to determine whether a person makes over 50K a year.
+# Credits: https://archive.ics.uci.edu/ml/datasets/Adult
+
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.svm import SVC
