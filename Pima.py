@@ -1,3 +1,8 @@
+# Authors: Jakub Wirkus, Paweł Zborowski
+# Description: The Pima Indians Diabetes Dataset involves predicting the onset of diabetes within 5 years in Pima Indians given medical details.
+# Credits: https://machinelearningmastery.com/standard-machine-learning-datasets/
+
+
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.svm import SVC
